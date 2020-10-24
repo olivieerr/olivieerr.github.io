@@ -14,6 +14,6 @@ TP SLAM 5 portfoilio d'olivieerr, étudiant en BTS SIO
 - Je parle des projets que j'ai réalisés, je bascule sur les pages correspondanctes
 - Je parle des stages et des projets auxquels j'ai participé, je bascules sur les pages correspondantes
 - Je présente mes bonnes pratiques 
--- Respect des normes et standars
--- 
+* Respect des normes et standars
+ 
 
