@@ -12,11 +12,25 @@ TP SLAM 5 portfoilio d'olivieerr, étudiant en BTS SIO
  
 2. Pour l'epreuve E6
 
- - je me presente et présente mon parcours, j'affiche mon CV
- - Je parle des projets que j'ai réalisés, je bascule sur les pages correspondanctes
- - Je parle des stages et des projets auxquels j'ai participé, je bascules sur les pages correspondantes
- - Je présente mes bonnes pratiques 
+  - je me presente et présente mon parcours, j'affiche mon CV
+  - Je parle des projets que j'ai réalisés, je bascule sur les pages correspondanctes
+  - Je parle des stages et des projets auxquels j'ai participé, je bascules sur les pages correspondantes
+  - Je présente mes bonnes pratiques 
+    - Respect des normes et standards
+    - Auto-formation
+    - Mise en oeuvre de test(unitaire, d'integration, fonctionnel,...)
+    - Documentation
+    - Gestion de version, dévelloppement collaboratif et gestions d'incidents
+  - Je présente la façon dont j'organise ma veille et la façon dont je m'en sers
+  
+ 3. Pour l'épreuve E4
  
-  * Respect des normes et standars
- 
-
+   - J'héberge les documents présentant le contexte de mes PPE
+   - J'héberge les codes sources de mes PPE
+   - J'héberge mes productions (CR, Doc techniques; doc utilisateurs, ...)
+   - J'ajoute des liens vers les applications téléchargeables ou testables en ligne
+   
+  4. Pour mon identité numérique
+  
+   - Cela fait un point d'entrée professionnel à donner lorsque je postule à un stage, une puirsuite d'etude ou un emploi
+   - Cela permettra de me faire referencer par les moteurs de recherches 
