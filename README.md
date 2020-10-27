@@ -1,5 +1,5 @@
 # olivieerr.github.io
-TP SLAM 5 portfoilio d'olivieerr, étudiant en BTS SIO
+TP SLAM 5 portfolio d'olivieerr, étudiant en BTS SIO
 ---
 ## Objectifs
 1. Mettre en oeuvre les technologies web pour créer et héberger mon protefolio (qui est déjà à cette adresse : [portefolio](https://site-en-vrac.com/portefolio) )
